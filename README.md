@@ -28,18 +28,6 @@ http://www.wandermap.net/nl/#/z15/53.5667,13.2666998/terrain
 
 It is an offline variant of it meant for the Windows desktop environment.
 
-**Screenshots:**
-
-![](/screenshot1.png)
-![](/screenshot0.png)
-![](/screenshot2.png)
-![](/screenshot4.png)
-
-![](/screenshot3.png)
-![](/screenshot5.png)
-![](/screenshot6.png)
-![](/screenshot10.png)
-
 **Main Use-cases:**
 
 The main use-cases HikingTrails is offering are as following:
@@ -60,3 +48,17 @@ Other important use-cases are:
 3- Being able to see statitistics of your walked routes.
 
 4- Being able to see all your routes on a clear calendar.
+
+**Screenshots:**
+
+![](/screenshot1.png)
+![](/screenshot0.png)
+![](/screenshot2.png)
+![](/screenshot4.png)
+
+![](/screenshot3.png)
+![](/screenshot5.png)
+![](/screenshot6.png)
+![](/Screenshot10.png)
+
+
