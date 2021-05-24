@@ -6,7 +6,11 @@
 
 **General:**
 
-This is a Windows desktop application for creating and maintaining your walking routes and corresponding photo's. The main functionalities are as followed:
+This is a Windows desktop application for creating and maintaining your walking routes and corresponding photo's.
+This is the public release repository of HikingTrails where you can download the latest version of HikingTrails (the sourcecode of HikingTrails resides in a private github repository).
+
+The main functionalities are as followed:
+
 - Create/edit/delete routes on a Bing Map.
 - Create routes in free draw mode or use the routing API (shortest distance/time between two points). Two routing API's are supported: 
 open route service API (https://openrouteservice.org/) and the Bing Maps routes API.
