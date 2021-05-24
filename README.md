@@ -6,8 +6,7 @@
 
 **General:**
 
-This is a Windows desktop application for creating and maintaining your walking routes and corresponding photo's.
-This is the public release repository of HikingTrails where you can download the latest version of HikingTrails (the sourcecode of HikingTrails resides in a private github repository).
+This is the public release repository of HikingTrails where you can download the latest version of HikingTrails (the sourcecode of HikingTrails resides in a private github repository). HikingTrails is a Windows desktop application for creating and maintaining your walking routes and corresponding photo's.
 
 The main functionalities are as followed:
 
