@@ -11,7 +11,7 @@ This is the public release repository of HikingTrails where you can download the
 https://github.com/r-meijerink/HikingTrails-release/releases/tag/v1.0
 
 HikingTrails is a windows desktop application to create/manage hiking trails and corresponding pictures. The mission of HikingTrails is to offer hikers and landscape/nature photographers a free (off-cloud) hiking application to do the following:
-- Easily manage, build, edit and view hiking trails on a Bing Map. You can draw routes in free draw mode or use the routing API (shortest distance/time between two points). Two routing API's are supported: open route service API and the Bing Maps routes API. To use the routing functionality you need to get a Bing Maps API key or an open route service API key (how to do this is described in the help menu).
+- Easily manage, build, edit and view hiking trails on a Bing Map. You can draw routes in free draw mode or use the routing API (shortest distance/time between two points). Two routing API's are supported: open route service API (https://openrouteservice.org/) and the Bing Maps routes API. To use the routing functionality you need to get a Bing Maps API key or an open route service API key (how to do this is described in the help menu).
 - To easily add point of interests with pictures to routes (you can import geotagged pictures) and build a clear collection of geotagged hiking pictures this way that is easily navigable and viewable.
 - To share your routes with other users of HikingTrails and being able to import existing hiking trails (KML/GPX file).
 
