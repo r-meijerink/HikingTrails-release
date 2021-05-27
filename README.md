@@ -22,7 +22,7 @@ The main functionalities are as followed:
 - Add points of interests to your route and include a description, tags, a rating and a picture to each point of interest.
 - For each route you can (among other things) enter a note, a category, and a date.
 - Save your routes as an XML file on your desktop computer/laptop.
-- Export a route/routes to KML and open them in Google Earth. Or you can also use the KML file in an offline navigation app like for example maps.me: (https://support.maps.me/hc/en-us/articles/207895029-How-to-import-bookmarks-). This way you can follow the route on your smartphone while walking.
+- Export a route/routes to KML and open them in Google Earth. Or you can also use the KML file in an offline navigation app like for example maps.me: (https://maps.me/). This way you can follow the route on your smartphone while walking.
 - Export route/routes to XML (HikingTrails route file) and share them with other users.
 - Import routes from a KML or GPX file.
 - Import routes from a HikingTrails route file (XML file).
