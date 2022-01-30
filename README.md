@@ -65,12 +65,6 @@ Other important use-cases are:
 
 ![](/screenshot1.png)
 ![](/screenshot0.png)
-![](/screenshot2.png)
 ![](/screenshot4.png)
-
-![](/screenshot3.png)
-![](/screenshot5.png)
-![](/screenshot6.png)
-![](/Screenshot10.png)
 
 
